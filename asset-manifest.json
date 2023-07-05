@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Economic_Analytics_Hub/static/css/main.2a131812.css",
-    "main.js": "/Economic_Analytics_Hub/static/js/main.b5e2d7a6.js",
+    "main.js": "/Economic_Analytics_Hub/static/js/main.bc179961.js",
     "index.html": "/Economic_Analytics_Hub/index.html",
     "main.2a131812.css.map": "/Economic_Analytics_Hub/static/css/main.2a131812.css.map",
-    "main.b5e2d7a6.js.map": "/Economic_Analytics_Hub/static/js/main.b5e2d7a6.js.map"
+    "main.bc179961.js.map": "/Economic_Analytics_Hub/static/js/main.bc179961.js.map"
   },
   "entrypoints": [
     "static/css/main.2a131812.css",
-    "static/js/main.b5e2d7a6.js"
+    "static/js/main.bc179961.js"
   ]
 }
