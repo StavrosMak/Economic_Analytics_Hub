@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StavrosMak/Economic_Analytics_Hub/static/css/main.2a131812.css",
+    "main.js": "/StavrosMak/Economic_Analytics_Hub/static/js/main.b5e2d7a6.js",
+    "index.html": "/StavrosMak/Economic_Analytics_Hub/index.html",
+    "main.2a131812.css.map": "/StavrosMak/Economic_Analytics_Hub/static/css/main.2a131812.css.map",
+    "main.b5e2d7a6.js.map": "/StavrosMak/Economic_Analytics_Hub/static/js/main.b5e2d7a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a131812.css",
+    "static/js/main.b5e2d7a6.js"
+  ]
+}
