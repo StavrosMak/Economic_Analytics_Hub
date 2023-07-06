@@ -1,0 +1,35 @@
+@import url("../../shared/variables.css");
+
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 2em;
+    height: var(--navbar-height);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.menuBtn{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 1em;
+    display: flex;
+    padding: 0 1em;
+    align-items: center;  
+}
+
+.Login{
+    background-color: #fff;
+    padding: .6em 1em;
+    border-radius: 50%;
+}
+
+@media screen and (max-width:768px){
+    .Navbar{
+        width: 100vw;
+    }
+}

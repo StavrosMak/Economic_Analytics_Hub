@@ -1,0 +1,325 @@
+[
+    {
+        "month": "Jan",
+        "expenses": [
+            {
+                "category": "Food",
+                "amount": 500
+            },
+            {
+                "category": "Housing",
+                "amount": 700
+            },
+            {
+                "category": "Transportation",
+                "amount": 300
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 1200
+            },
+            {
+                "category": "Freelance Work",
+                "amount": 500
+            }
+        ]
+    },
+    {
+        "month": "Feb",
+        "expenses": [
+            {
+                "category": "Housing",
+                "amount": 800
+            },
+            {
+                "category": "Food",
+                "amount": 400
+            },
+            {
+                "category": "Utilities",
+                "amount": 150
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 1800
+            },
+            {
+                "category": "Bonus",
+                "amount": 500
+            },
+            {
+                "category": "Investments",
+                "amount": 300
+            }
+        ]
+    },
+    {
+        "month": "Mar",
+        "expenses": [
+            {
+                "category": "Food",
+                "amount": 550
+            },
+            {
+                "category": "Housing",
+                "amount": 900
+            },
+            {
+                "category": "Transportation",
+                "amount": 250
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 1500
+            },
+            {
+                "category": "Freelance Work",
+                "amount": 700
+            }
+        ]
+    },
+    {
+        "month": "Apr",
+        "expenses": [
+            {
+                "category": "Housing",
+                "amount": 700
+            },
+            {
+                "category": "Food",
+                "amount": 600
+            },
+            {
+                "category": "Entertain",
+                "amount": 200
+            },
+            {
+                "category": "Utilities",
+                "amount": 100
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 2000
+            },
+            {
+                "category": "Bonus",
+                "amount": 300
+            }
+        ]
+    },
+    {
+        "month": "May",
+        "expenses": [
+            {
+                "category": "Food",
+                "amount": 450
+            },
+            {
+                "category": "Housing",
+                "amount": 800
+            },
+            {
+                "category": "Transportation",
+                "amount": 350
+            },
+            {
+                "category": "Entertain",
+                "amount": 100
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 1400
+            },
+            {
+                "category": "Freelance Work",
+                "amount": 600
+            },
+            {
+                "category": "Investments",
+                "amount": 200
+            }
+        ]
+    },
+    {
+        "month": "Jun",
+        "expenses": [
+            {
+                "category": "Housing",
+                "amount": 900
+            },
+            {
+                "category": "Food",
+                "amount": 500
+            },
+            {
+                "category": "Entertain",
+                "amount": 250
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 1800
+            },
+            {
+                "category": "Bonus",
+                "amount": 400
+            }
+        ]
+    },
+    {
+        "month": "Jul",
+        "expenses": [
+            {
+                "category": "Food",
+                "amount": 600
+            },
+            {
+                "category": "Housing",
+                "amount": 1000
+            },
+            {
+                "category": "Transportation",
+                "amount": 200
+            },
+            {
+                "category": "Entertain",
+                "amount": 300
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 2500
+            },
+            {
+                "category": "Freelance Work",
+                "amount": 500
+            }
+        ]
+    },
+    {
+        "month": "Aug",
+        "expenses": [
+            {
+                "category": "Food",
+                "amount": 550
+            },
+            {
+                "category": "Housing",
+                "amount": 1000
+            },
+            {
+                "category": "Transportation",
+                "amount": 250
+            },
+            {
+                "category": "Entertain",
+                "amount": 200
+            }
+        ],
+        "incomes": [
+            {
+                "category": "Salary",
+                "amount": 2500
+                
+            },
+            {
+                "category": "Part-time Job",
+                "amount": 400
+            },
+            {
+                "category": "Part-time Job",
+                "amount": 400
+            }
+        ]
+    },
+    {
+        "month": "Sep",
+        "expenses": [
+            { "category": "Housing", "amount": 700
+            },
+            { "category": "Food", "amount": 450
+            },
+            { "category": "Utilities", "amount": 200
+            },
+            { "category": "Transportation", "amount": 250
+            }
+        ],
+        "incomes": [
+            { "category": "Salary", "amount": 2000
+            },
+            { "category": "Freelance Work", "amount": 800
+            }
+        ]
+    },
+    {
+        "month": "Oct",
+        "expenses": [
+            { "category": "Housing", "amount": 900
+            },
+            { "category": "Food", "amount": 500
+            },
+            { "category": "Entertain", "amount": 300
+            },
+            { "category": "Transportation", "amount": 200
+            }
+        ],
+        "incomes": [
+            { "category": "Salary", "amount": 2200
+            },
+            { "category": "Investments", "amount": 500
+            }
+        ]
+    },
+    {
+        "month": "Nov",
+        "expenses": [
+            { "category": "Housing", "amount": 800
+            },
+            { "category": "Food", "amount": 600
+            },
+            { "category": "Entertain", "amount": 400
+            },
+            { "category": "Transportation", "amount": 350
+            }
+        ],
+        "incomes": [
+            { "category": "Salary", "amount": 2000
+            },
+            { "category": "Freelance Work", "amount": 700
+            }
+        ]
+    },
+    {
+        "month": "Dec",
+        "expenses": [
+            { "category": "Housing", "amount": 1000
+            },
+            { "category": "Food", "amount": 700
+            },
+            { "category": "Entertain", "amount": 500
+            },
+            { "category": "Transportation", "amount": 250
+            }
+        ],
+        "incomes": [
+            { "category": "Salary", "amount": 2500
+            },
+            { "category": "Bonus", "amount": 1000
+            }
+        ]
+    }
+]
+
+

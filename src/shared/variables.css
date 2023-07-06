@@ -1,0 +1,18 @@
+:root {
+    --sidebar-width: 100px;
+    --navbar-height: 85px;
+    --header-padding:0em 1em 1em 0.5em;
+}
+
+
+.dark {
+    background-color: #27293D;
+    color: #fff;
+}
+
+.light {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    color: #27293D;
+
+}

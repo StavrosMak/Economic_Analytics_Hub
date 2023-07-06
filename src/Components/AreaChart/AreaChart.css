@@ -1,0 +1,68 @@
+.AreaChartContainer {
+    height: max-content;
+    border-radius: 20px;
+}
+
+.AreaChartHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.AreaChartHeader h3 {
+    color: #fff;
+    padding: .4em 1em;
+}
+
+.AreaChartHeader .selectData {
+    margin: 0 1em;
+    border: 1px solid #BC54F3;
+    border-radius: 3px;
+}
+
+.selectData button {
+    background-color: transparent;
+    outline: none;
+    color: #BC54F3;
+    padding: .4em;
+    border: 1px solid #BC54F3;
+    font-weight: bold;
+}
+
+.selectData .Active {
+    background-color: #BC54F3;
+    color: #fff;
+}
+
+.tooltip {
+    background-color: #fff;
+    padding: 0 1em;
+    height: 60px;
+    width: max-content;
+    border-radius: 10px;
+    font-weight: lighter;
+    outline: none;
+    border: none;
+    display: block;
+}
+
+.custom-tooltip {
+    background-color: #27293D;
+    outline: none;
+    border: none;
+    padding: 1em;
+}
+
+
+@media screen and (max-width:768px) {
+    .AreaChartHeader {
+        flex-direction: column;
+        gap: 1em;
+        margin-bottom: 1em;
+    }
+
+    .AreaChartContainer {
+        width: 100%;
+    }
+}

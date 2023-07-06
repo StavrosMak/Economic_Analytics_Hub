@@ -1,0 +1,29 @@
+@import url("../../shared/variables.css");
+
+.BarChart {
+    width: 33%;
+    height: 300px;
+    border-radius: 10px;
+    padding: 1em 0;
+    font-size: .9em;
+}
+
+.BarChartHeader {
+    padding: var(--header-padding);
+}
+.custom-tooltip{
+    color: #fff;
+}
+
+
+@media screen and (max-width:900px) {
+    .BarChart {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .BarChart {
+        width: 100%;
+    }
+}

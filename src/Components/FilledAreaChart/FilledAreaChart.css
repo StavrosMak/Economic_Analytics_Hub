@@ -1,0 +1,23 @@
+@import url("../../shared/variables.css");
+
+.FilledAreaChart {
+    width: 33.3333%;
+    width: 33%;
+
+    height: 300px;
+    border-radius: 10px;
+    padding: 1em 0em;
+
+}
+
+.FilledAreaChartHeader {
+    padding: var(--header-padding);
+    margin: 0;
+}
+
+@media screen and (max-width:900px) {
+    .FilledAreaChart {
+        width: 100%;
+        
+    }
+}

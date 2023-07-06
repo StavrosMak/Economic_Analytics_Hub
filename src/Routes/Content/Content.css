@@ -1,0 +1,60 @@
+::-webkit-scrollbar {
+    display: none;
+  }
+  
+.ContentContainer {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 100px);/*100px = size of sidebar */
+    gap: 2em;
+    margin-left: 100px;
+    padding: 0 1em;
+}
+
+.ContentContainer--expanded{
+    width: calc(100% - 200px);
+
+}
+
+.infoCardList {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+}
+
+.categoryList ,.StatisticInfo{
+     display: flex;
+     width: 100%;
+     gap: 1.5em;
+}
+
+@media screen and (max-width:900px){
+    .categoryList{
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:768px){
+
+    .ContentContainer{
+        margin: 0;
+        width: 100%;
+        left: 0;
+        align-items: center;
+        
+    }
+    .infoCardList{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .categoryList,.StatisticInfo{
+        flex-direction: column;
+        width: 100%;
+    }
+    .infoCardList{
+        width: 100%;
+    }
+    
+}

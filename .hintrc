@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": [
+          "link[referrerpolicy]"
+        ]
+      }
+    ],
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "scrollbar-width",
+          "user-select",
+          "width: fit-content",
+          "backdrop-filter",
+          "scrollbar-color",
+          "scroll-behavior"
+        ]
+      }
+    ],
+    "no-inline-styles": "off"
+  }
+}

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.Transaction {
+    max-width: 1200px;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.TransactionHeader {
+    padding: 1em;
+}
+
+.accordContainer {
+    width: 100%;
+}
+
+.accordHeader {
+    display: flex;
+    padding: 1em;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+
+    justify-content: space-between;
+}
+
+.accordContent {
+    width: 100%;
+    margin: 1em 0em 3em 0;
+}
+
+.accordContent ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.accordContentTitle {
+    /* text-align: center; */
+    padding: 1em;
+}
+
+.accordContentList {
+    padding: 0 1em;
+    /* font-family: 'Montserrat', sans-serif; */
+}
+
+.accordContentList li {
+    margin: 1em;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    vertical-align: 'bottom';
+}
+
+
+.expense {
+    color: rgb(247, 68, 68);
+    vertical-align: 'bottom';
+}
+
+.income {
+    vertical-align: 'bottom';
+
+    color: lightgreen;
+}
+
+
+@media screen and (max-width:768px) {
+
+    .Transaction {
+        width: 90%;
+    }
+}
