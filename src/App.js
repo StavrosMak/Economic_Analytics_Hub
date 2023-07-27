@@ -9,7 +9,7 @@ import './shared/styles.css'
 
 export const ThemeContext = createContext(null);
 export const SidebarContext = createContext(null);
-
+ 
 function App() {
   const [theme, setTheme] = useState("dark");
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
